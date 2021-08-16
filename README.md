@@ -21,6 +21,7 @@ CRUD был сделан на основе книжного магазина.
 `python3 manage.py test`
 
 Команды для запуска
+<br>`pip install -r requirements.txt`
 <br>`python3 manage.py makemigrations`
 <br>`python3 manage.py migrate`
 <br>`python3 manage.py runserver`
